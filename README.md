@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **IoT Board Designing**
 
-- 👯 I’m looking to collaborate on [Vlivinbamboo](Vlivinbamboo.com)
+- 👯 I’m looking to collaborate on [Vlivinbamboo](https://Vlivinbamboo.com)
 
 - 🤝 I’m looking for help with **Hail Blood Donation**
 
-- 👨‍💻 All of my projects are available at [saipreetham.me](saipreetham.me)
+- 👨‍💻 All of my projects are available at [saipreetham.me](https://saipreetham.me)
 
 - 📝 I regularly write articles on [https://saipreetham.me/blog/](https://saipreetham.me/blog/)
 
