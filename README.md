@@ -17,13 +17,13 @@
 
 - 🤝 I’m looking for help with **Hail Blood Donation**
 
-- 👨‍💻 All of my projects are available at [saipreetham.me](https://saipreetham.me)
+- 👨‍💻 All of my projects are available at [saipreetham.com](https://saipreetham.com)
 
-- 📝 I regularly write articles on [https://saipreetham.me/blog/](https://saipreetham.me/blog/)
+- 📝 I regularly write articles on [https://saipreetham.com/blog/](https://saipreetham.com/blog/)
 
 - 💬 Ask me about **Wordpress, Flutter, IoT**
 
-- 📫 How to reach me **Hi@saipreetham.me**
+- 📫 How to reach me **Hi@saipreetham.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
