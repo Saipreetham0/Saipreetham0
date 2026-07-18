@@ -16,7 +16,7 @@
 - 🎯 **Learning:** IoT Board Designing & Advanced Flutter Architecture
 - 🤝 **Open to Collaborate:** [TheSkypedia](https://theskypedia.com)
 - 💡 **Passion Project:** Hail Blood Donation Platform
-- 📖 **Sharing Knowledge:** Regular articles on [my blog](https://saipreetham.com/blog/)
+- 📖 **Sharing Knowledge:** Regular articles on [dev.to](https://dev.to/saipreetham0)
 - 💌 **Let's Connect:** [Hi@saipreetham.com](mailto:Hi@saipreetham.com)
 
 ---
@@ -30,15 +30,15 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### **Frontend & Design**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### **Backend & Database**
@@ -47,13 +47,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ### **IoT & Hardware**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 </div>
@@ -82,19 +78,20 @@
 
 <div align="center">
 
-### 🌟 [KSP Digital Solutions](https://saipreetham.com)
-*Full-Stack Web Solutions & Digital Marketing*
-
-### 🔧 [KSP Electronics](https://saipreetham.com)
-*IoT Development & Hardware Solutions*
-
-### 📚 [TheSkypedia](https://theskypedia.com)
-*Educational Platform & Knowledge Sharing*
-
-### ❤️ Hail Blood Donation
-*Community-Driven Blood Donation Platform*
+| Project | Stack | What it does |
+|---|---|---|
+| 🚗 [Drowsiness Detector](https://github.com/Saipreetham0/drowsiness-detector) | Raspberry Pi · OpenCV · Python | Real-time driver drowsiness & distraction detection |
+| 📡 [ESP32 FOTA via Firebase](https://github.com/Saipreetham0/ESP32-FOTA-Firebase) | ESP32 · Firebase | Over-the-air firmware updates with no custom server |
+| 🎓 [JNTUH Results](https://github.com/Saipreetham0/jntuh-results-the-skypedia) | Next.js · TypeScript | Results & CGPA calculator for JNTUH students |
+| ⚡ [ElectroCalc](https://github.com/Saipreetham0/ElectroCalc) | Next.js · TypeScript | Electronics calculators — Ohm's law, resistor codes & more |
 
 </div>
+
+### 🌐 Ventures
+- 🌟 **[KSP Digital Solutions](https://saipreetham.com)** — Full-stack web & digital marketing
+- 🔧 **[KSP Electronics](https://saipreetham.com)** — IoT development & hardware
+- 📚 **[TheSkypedia](https://theskypedia.com)** — Educational platform & knowledge sharing
+- ❤️ **Hail Blood Donation** — Community-driven blood donation platform
 
 ---
 
@@ -103,8 +100,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://saipreetham.com)
-[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://saipreetham.com/blog/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saipreetham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saipreetham0/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/k_saipreetham)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saipreetham0)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/saipreetham0)
