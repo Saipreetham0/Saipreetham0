@@ -2,7 +2,9 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;IoT+Enthusiast;Mobile+App+Creator;Digital+Solutions+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Founder+%40+KSP+Electronics+%26+KSP+Digital;IoT%2C+Embedded+%26+Cloud+for+Startups;ESP32+%E2%80%A2+LoRaWAN+%E2%80%A2+AWS+IoT)](https://git.io/typing-svg)
+
+📍 Hyderabad, India · He/Him
 
 </div>
 
@@ -10,13 +12,14 @@
 
 ## 🚀 About Me
 
-> **Turning ideas into digital reality** - I'm a passionate developer who loves creating innovative solutions that make a difference.
+> **Bridging hardware, software, and the cloud** — I build IoT and embedded solutions that are scalable, reliable, and production-ready for startups and enterprises.
 
-- 🔥 **Currently Building:** KSP Digital Solutions & KSP Electronics
-- 🎯 **Learning:** IoT Board Designing & Advanced Flutter Architecture
+- 🏢 **Founder:** [KSP Electronics](https://saipreetham.com) (2019 – present) & [KSP Digital Solutions](https://saipreetham.com) (2023 – present)
+- 🔧 **Focus:** Embedded systems · ESP32 · LoRaWAN · AWS IoT · custom hardware
+- 🌐 **Also building:** Next.js / Flutter apps, IoT dashboards & automation platforms
+- 🎓 **Impact:** Served 1000+ students, makers & startups with IoT hardware and solutions
 - 🤝 **Open to Collaborate:** [TheSkypedia](https://theskypedia.com)
-- 💡 **Passion Project:** Hail Blood Donation Platform
-- 📖 **Sharing Knowledge:** Regular articles on [dev.to](https://dev.to/saipreetham0)
+- 📖 **Sharing Knowledge:** Articles on [dev.to](https://dev.to/saipreetham0)
 - 💌 **Let's Connect:** [Hi@saipreetham.com](mailto:Hi@saipreetham.com)
 
 ---
@@ -44,13 +47,16 @@
 ### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **IoT & Hardware**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+### **IoT, Embedded & Cloud**
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-00529B?style=for-the-badge&logo=lora&logoColor=white)
+![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -88,10 +94,12 @@
 </div>
 
 ### 🌐 Ventures
-- 🌟 **[KSP Digital Solutions](https://saipreetham.com)** — Full-stack web & digital marketing
-- 🔧 **[KSP Electronics](https://saipreetham.com)** — IoT development & hardware
+- 🔧 **[KSP Electronics](https://saipreetham.com)** — IoT hardware, embedded & production-ready solutions *(since 2019)*
+- 🌟 **[KSP Digital Solutions](https://saipreetham.com)** — Web, mobile & IT services for startups *(since 2023)*
 - 📚 **[TheSkypedia](https://theskypedia.com)** — Educational platform & knowledge sharing
 - ❤️ **Hail Blood Donation** — Community-driven blood donation platform
+
+> 🤝 Client work with V Liv In Bamboo, Shubhithas Energy Solutions & Shresta Productions.
 
 ---
 
