@@ -4,8 +4,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Founder+%40+KSP+Electronics+%26+KSP+Digital;IoT%2C+Embedded+%26+Cloud+for+Startups;ESP32+%E2%80%A2+LoRaWAN+%E2%80%A2+AWS+IoT)](https://git.io/typing-svg)
 
-📍 Hyderabad, India · He/Him
-
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
