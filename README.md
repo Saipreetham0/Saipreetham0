@@ -10,12 +10,14 @@
 
 ## 🚀 About Me
 
-> **Bridging hardware, software, and the cloud** — I build IoT and embedded solutions that are scalable, reliable, and production-ready for startups and enterprises.
+> **Bridging hardware, software, and the cloud** — I'm an IoT developer & entrepreneur building embedded and cloud solutions that are scalable, reliable, and production-ready.
+
+I started **KSP Electronics** in 2019 to make electronics & IoT accessible to students, makers, and industries — it's since grown into IoT hardware, electronics retail, and production-grade solutions across ESP32, LoRaWAN, Zigbee, AWS IoT, and automation. In 2023 I launched **KSP Digital Solutions** to help startups turn ideas into scalable web & mobile products.
 
 - 🏢 **Founder:** [KSP Electronics](https://saipreetham.com) (2019 – present) & [KSP Digital Solutions](https://saipreetham.com) (2023 – present)
-- 🔧 **Focus:** Embedded systems · ESP32 · LoRaWAN · AWS IoT · custom hardware
-- 🌐 **Also building:** Next.js / Flutter apps, IoT dashboards & automation platforms
-- 🎓 **Impact:** Served 1000+ students, makers & startups with IoT hardware and solutions
+- 🔧 **IoT & Embedded:** ESP32 · LoRaWAN · Zigbee · AWS IoT · custom hardware & automation
+- 🌐 **Software:** Next.js · Flutter · Firebase · Supabase — apps, dashboards & APIs
+- 🎓 **Impact:** Served 1000+ students, makers & startups
 - 🤝 **Open to Collaborate:** [TheSkypedia](https://theskypedia.com)
 - 📖 **Sharing Knowledge:** Articles on [dev.to](https://dev.to/saipreetham0)
 - 💌 **Let's Connect:** [Hi@saipreetham.com](mailto:Hi@saipreetham.com)
