@@ -15,7 +15,8 @@
 I started **KSP Electronics** in 2019 to make electronics & IoT accessible to students, makers, and industries — it's since grown into IoT hardware, electronics retail, and production-grade solutions across ESP32, LoRaWAN, Zigbee, AWS IoT, and automation. In 2023 I launched **KSP Digital Solutions** to help startups turn ideas into scalable web & mobile products.
 
 - 🏢 **Founder:** [KSP Electronics](https://saipreetham.com) (2019 – present) & [KSP Digital Solutions](https://saipreetham.com) (2023 – present)
-- 🔧 **IoT & Embedded:** ESP32 · LoRaWAN · Zigbee · AWS IoT · custom hardware & automation
+- 🔧 **IoT & Embedded:** ESP32 · LoRaWAN · Zigbee · AWS IoT · PlatformIO · MQTT · Node-RED · custom hardware
+- 🤖 **AI & ML:** OpenCV · TensorFlow · scikit-learn — computer vision & real-time detection
 - 🌐 **Software:** Next.js · Flutter · Firebase · Supabase · Prisma · Vercel — apps, dashboards & APIs
 - 🎓 **Impact:** Served 1000+ students, makers & startups
 - 🤝 **Open to Collaborate:** [TheSkypedia](https://theskypedia.com)
@@ -43,6 +44,7 @@ I started **KSP Electronics** in 2019 to make electronics & IoT accessible to st
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### **Backend & Database**
@@ -53,11 +55,22 @@ I started **KSP Electronics** in 2019 to make electronics & IoT accessible to st
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+### **AI & ML**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ### **IoT, Embedded & Cloud**
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-00529B?style=for-the-badge&logo=lora&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white)
 ![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
