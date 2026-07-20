@@ -19,6 +19,7 @@ I started **KSP Electronics** in 2019 to make electronics & IoT accessible to st
 - 🤖 **AI & ML:** OpenCV · TensorFlow · scikit-learn — computer vision & real-time detection
 - 🌐 **Software:** Next.js · Flutter · Firebase · Supabase · Prisma · Vercel — apps, dashboards & APIs
 - 🎓 **Impact:** Served 1000+ students, makers & startups
+- 🌍 **Personal Website:** [saipreetham.com](https://saipreetham.com)
 - 🤝 **Open to Collaborate:** [TheSkypedia](https://theskypedia.com)
 - 📖 **Sharing Knowledge:** Articles on [dev.to](https://dev.to/saipreetham0)
 - 💌 **Let's Connect:** [Hi@saipreetham.com](mailto:Hi@saipreetham.com)
