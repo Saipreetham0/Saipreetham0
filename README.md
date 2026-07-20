@@ -14,7 +14,7 @@
 
 I started **KSP Electronics** in 2019 to make electronics & IoT accessible to students, makers, and industries — it's since grown into IoT hardware, electronics retail, and production-grade solutions across ESP32, LoRaWAN, Zigbee, AWS IoT, and automation. In 2023 I launched **KSP Digital Solutions** to help startups turn ideas into scalable web & mobile products.
 
-- 🏢 **Founder:** [KSP Electronics](https://saipreetham.com) (2019 – present) & [KSP Digital Solutions](https://saipreetham.com) (2023 – present)
+- 🏢 **Founder:** [KSP Electronics](https://kspelectronics.in/) (2019 – present) & [KSP Digital Solutions](https://kspdigitalsolutions.com/) (2023 – present)
 - 🔧 **IoT & Embedded:** ESP32 · LoRaWAN · Zigbee · AWS IoT · PlatformIO · MQTT · Node-RED · custom hardware
 - 🤖 **AI & ML:** OpenCV · TensorFlow · scikit-learn — computer vision & real-time detection
 - 🌐 **Software:** Next.js · Flutter · Firebase · Supabase · Prisma · Vercel — apps, dashboards & APIs
@@ -120,8 +120,8 @@ I started **KSP Electronics** in 2019 to make electronics & IoT accessible to st
 </div>
 
 ### 🌐 Ventures
-- 🔧 **[KSP Electronics](https://saipreetham.com)** — IoT hardware, embedded & production-ready solutions *(since 2019)*
-- 🌟 **[KSP Digital Solutions](https://saipreetham.com)** — Web, mobile & IT services for startups *(since 2023)*
+- 🔧 **[KSP Electronics](https://kspelectronics.in/)** — IoT hardware, embedded & production-ready solutions *(since 2019)*
+- 🌟 **[KSP Digital Solutions](https://kspdigitalsolutions.com/)** — Web, mobile & IT services for startups *(since 2023)*
 - 📚 **[TheSkypedia](https://theskypedia.com)** — Educational platform & knowledge sharing
 - ❤️ **Hail Blood Donation** — Community-driven blood donation platform
 
