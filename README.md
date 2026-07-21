@@ -166,7 +166,7 @@ I started **KSP Electronics** in 2019 to make electronics & IoT accessible to st
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saipreetham0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
-  ### 🌟 *"Code is poetry written in logic"* 🌟
+  ### 🌟 *"Where hardware meets the cloud."* 🌟
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
