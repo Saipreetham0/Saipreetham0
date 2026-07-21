@@ -6,8 +6,7 @@
 
 </div>
 
-<!-- Add your own header image here: commit it to the repo (e.g. assets/header.gif) and reference it as
-<img align="right" alt="Coding" width="400" src="assets/header.gif"> -->
+<img align="right" alt="Coding" width="400" src="./assets/header.gif">
 
 ## 🚀 About Me
 
