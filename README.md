@@ -6,7 +6,8 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- Add your own header image here: commit it to the repo (e.g. assets/header.gif) and reference it as
+<img align="right" alt="Coding" width="400" src="assets/header.gif"> -->
 
 ## 🚀 About Me
 
@@ -75,6 +76,8 @@ I started **KSP Electronics** in 2019 to make electronics & IoT accessible to st
 ![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
+
+> 🔒 Some production & client work (LoRaWAN, AWS IoT and automation deployments) lives in private/client-owned repositories.
 
 ---
 
